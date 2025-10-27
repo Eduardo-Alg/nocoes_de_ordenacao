@@ -115,6 +115,6 @@ Produto456: $ 21.27, 4.4, 2025-08-05, O17
 📧 mailto:eduardoalg.97@gmail.com
 
 ## 📜 Licença
-Este projeto está licenciado sob os termos da **MIT License**.
+Este projeto está licenciado sob os termos da **MIT [LICENSE](./LICENSE).**
 
 Sinta-se livre para usar, modificar e distribuir conforme os termos da licença.
