@@ -112,7 +112,7 @@ Produto456: $ 21.27, 4.4, 2025-08-05, O17
 
 🔗 www.linkedin.com/in/eduardo-alg
 
-📧 mailto:eduardoalg.97@gmail.com
+📧 eduardoalg.97@gmail.com
 
 ## 📜 Licença
 Este projeto está licenciado sob os termos da **MIT [LICENSE](./LICENSE).**
