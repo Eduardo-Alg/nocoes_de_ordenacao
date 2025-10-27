@@ -100,5 +100,5 @@ Produto456: $ 21.27, 4.4, 2025-08-05, O17
 
 ## 📈 Resultados / Visualizações
 
-![Distribuição de Preços](<img width="986" height="548" alt="grafico_bubble_sort" src="https://github.com/user-attachments/assets/5d2540a7-3d3b-4581-a34e-1b2bca1b07ef" />
-)
+![Gráfico de Desempenho](img/grafico_desempenho.png)
+
