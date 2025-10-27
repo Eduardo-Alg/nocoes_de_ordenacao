@@ -102,3 +102,19 @@ Produto456: $ 21.27, 4.4, 2025-08-05, O17
 
 ![Gráfico de Desempenho](img/grafico_desempenho.png)
 
+## 🧩 Funcionalidades
+- Execução dos algoritmos **Bubble Sort**, **Quick Sort**, **Merge Sort** e **Heap Sort** — em **ordem ascendente e descendente**
+- Geração automática de **gráficos de desempenho individuais**
+- **Gráfico comparativo geral** entre todos os algoritmos
+
+## 👨‍💻 Autor
+🐙 https://github.com/Eduardo-Alg
+
+🔗 www.linkedin.com/in/eduardo-alg
+
+📧 mailto:eduardoalg.97@gmail.com
+
+## 📜 Licença
+Este projeto está licenciado sob os termos da **MIT License**.
+
+Sinta-se livre para usar, modificar e distribuir conforme os termos da licença.
